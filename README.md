@@ -28,8 +28,14 @@ A modern blogging platform built with **React.js** and **Appwrite** for authenti
 
 ## 📸 Screenshots
 
-![Post Screenshot](./public/Postpage.png)
-![PostCard Screenshot](./public/Postcardpage.png)
+<p align="center">
+  <img src="./public/Postpage.png" alt="Post Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./public/Postcardpage.png" alt="PostCard Screenshot" width="600"/>
+</p>
+
 
 ---
 
@@ -37,7 +43,7 @@ A modern blogging platform built with **React.js** and **Appwrite** for authenti
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blogginghub.git
+git clone https://github.com/bhuvan649/Blog-App.git
 cd blogginghub
 ```
 2️⃣ Install dependencies:
